@@ -26,6 +26,7 @@ def main():
     ticketSymbol = getMostVolume()
     stockOptionResult = pickStockOption(ticketSymbol)
     print(stockOptionResult)
+    input("Press Enter To Exit ... ")
 
 if __name__ == '__main__':
     main()
