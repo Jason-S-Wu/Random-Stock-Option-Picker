@@ -5,7 +5,7 @@ Picks a random high volume stock to trade options with. A terrible way to YOLO y
 Run `stockpicker.py` or get the stand alone version from [Releases](https://github.com/Jason-S-Wu/Random-Stock-Option-Picker/releases)
 
 <p align="center">
-  <img src="https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/screen_shot_2020-06-09_at_10.47.32_am.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/WallStreetBets.png" />
 </p>
 
 
