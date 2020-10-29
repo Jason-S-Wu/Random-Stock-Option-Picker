@@ -1,5 +1,5 @@
 # Random-Stock-Option-Picker
-Picks a random high volume stock to trade options with. A terrible way to YOLO your money. This project is made just for fun.
+Picks a random high volume stock to trade options with. A terrible way to YOLO your money. This project was made just for fun.
 
 # Usage
 Run `stockpicker.py` or get the stand alone version from [Releases](https://github.com/Jason-S-Wu/Random-Stock-Option-Picker/releases)
